@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Chúc mừng sinh nhật e nha Hạnh" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Chúc mừng sinh nhật e nha Hạnh!!" //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc mừng sinh nhật e, sang một tuổi mới, thành công mới, nhiều niềm vui mới, nhiều hạnh phúc mới trong cuộc sống nha. Hãy luôn mỉm cười e nhé vì may mắn sẽ luôn tới với e. Sinh Nhật Vui Vẻ!!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
@@ -109,3 +109,4 @@ function createLight(a) {
     }
 
 }
+
